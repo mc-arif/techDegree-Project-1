@@ -1,2 +1,2 @@
-# techDegree-Project-1
+# Tech Degree Project 1
  Front end project 1

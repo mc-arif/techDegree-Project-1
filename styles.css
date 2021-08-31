@@ -121,7 +121,7 @@ header .profile-image:hover {
     color: honeydew;
 }
 
-.card {
+.box {
     margin: 30px;
     padding: 20px 40px 40px;
     max-width: 500px;
@@ -132,7 +132,7 @@ header .profile-image:hover {
     transition: all 0.5s;
 }
 
-.card:hover {
+.box:hover {
     border-color: dodgerblue;
 }
 
